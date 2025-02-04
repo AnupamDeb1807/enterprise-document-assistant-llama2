@@ -1,4 +1,4 @@
-# local-llama2
+# document-assistant-llama2
 
 
 ### Step1: Create a Virtual Environment
